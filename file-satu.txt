@@ -1,3 +1,6 @@
 isi di file 1
 
 baris ketiga dari file 1
+
+
+tambahan baris ke 6 di file 1
