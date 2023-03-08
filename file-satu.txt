@@ -1,1 +1,3 @@
 isi di file 1
+
+baris ketiga dari file 1
