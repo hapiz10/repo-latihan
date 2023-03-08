@@ -1,0 +1,4 @@
+file 2 baris ke satu
+
+
+file 2 baris ke empat
